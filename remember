@@ -1,0 +1,4 @@
+new-host-3:hw2_rottenpotatoes eustf$ heroku create --stack cedar
+Creating empty-wind-2051... done, stack is cedar
+http://empty-wind-2051.herokuapp.com/ | git@heroku.com:empty-wind-2051.git
+Git remote heroku added
